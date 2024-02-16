@@ -14,5 +14,5 @@ assignees: ''
 - Link to parent epic(s) here
 
 # User Stories
-- [ ] List subtasks here.
+- [ ] As a <user-type> I want to <do-something>
 - [ ] Make use of checkbox for easy progress tracking.
