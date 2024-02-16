@@ -14,5 +14,5 @@ assignees: ''
 - Link to parent epic(s) here
 
 # User Stories
-- [ ] As a <user-type> I want to <do-something>
+- [ ] As a *user type* I want to *do a specific thing*
 - [ ] Make use of checkbox for easy progress tracking.
